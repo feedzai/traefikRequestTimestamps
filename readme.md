@@ -18,7 +18,7 @@ This plugin injects both a REQUEST-TIMESTAMP and a RESPONSE-TIMESTAMP header int
 experimental:
   plugins:
     timestampheaders:
-      moduleName: "github.com/feedzai/traefiktimestamping"
+      moduleName: "github.com/feedzai/traefikRequestTimestamps"
       version: "v1.0.0"
 ```
 

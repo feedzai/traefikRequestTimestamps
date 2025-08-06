@@ -2,7 +2,7 @@ displayName: Request & Response Timestamp Headers
 type: middleware
 iconPath: .assets/icon.png
 
-import: github.com/RodrigoRosmaninho/traefiktimestamping
+import: github.com/feedzai/traefikRequestTimestamps
 
 summary: "Add request timestamp and response timestamp headers to Trafik's response, using configurable header names and date format. Defaults are: REQUEST-TIMESTAMP, RESPONSE-TIMESTAMP, 2006-01-02T15:04:05.000Z (ISO 8601)"
 

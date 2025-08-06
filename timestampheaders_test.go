@@ -1,4 +1,4 @@
-package traefiktimestamping
+package traefikRequestTimestamps
 
 import (
 	"context"

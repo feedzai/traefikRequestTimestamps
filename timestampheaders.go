@@ -1,5 +1,5 @@
-// Package traefiktimestamping implements a Traefik plugin that adds timestamp headers to HTTP responses.
-package traefiktimestamping
+// Package traefikRequestTimestamps implements a Traefik plugin that adds timestamp headers to HTTP responses.
+package traefikRequestTimestamps
 
 import (
 	"context"
