@@ -1,4 +1,4 @@
-displayName: Request & Response Timestamp Headers
+displayName: Traefik Request Timestamps Middleware
 type: middleware
 iconPath: .assets/icon.png
 

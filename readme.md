@@ -1,4 +1,4 @@
-# Request & Response Timestamp Headers Plugin
+# Traefik Request Timestamps Middleware
 
 A Traefik plugin that adds request and response timestamp headers to HTTP responses, helping you track request processing times and latency.
 
